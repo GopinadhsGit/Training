@@ -1,1 +1,4 @@
 its my way of doing things
+
+
+Successfully runned git and commands worked after all..... hurray!!!!
